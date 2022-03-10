@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencantez&theme=light&layout=compact" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencantez&theme=dark&layout=compact" width="410" /></p>
 
 ------
 
