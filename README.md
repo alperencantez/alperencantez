@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - :seedling: I’m currently learning <b>React</b>.
 - :computer: <strong> Most used line of code:</strong> `const [stateName, setStateName] = useState([]);`
-- 🧬 <b> On my wishlist:</b> Ionic, React Native, Flutter, Swift, C
+- 🧬 <b> On my wishlist:</b> Ionic, React Native, Flutter, Swift, C, TypeScript
 - 📫 <b>Reach me via</b>: alperen.cantez@outlook.com
 
 ### 🛠 &nbsp; Tech Stack
