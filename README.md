@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Alp, I mainly develop client-side applications & UIs for your convenience.
+I'm Alp, develop web applications & UIs for your convenience.
 
 
 <!--
