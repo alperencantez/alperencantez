@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :seedling: I’m currently learning <b>React</b>.
-- 🧬 <b> On my wishlist:</b> Ionic, React Native, Flutter, Swift, C, TypeScript
+- :seedling: I’m currently learning <b>React & Flask</b>.
+- 🧬 <b> On my wishlist:</b> Flutter, Swift, C, TypeScript, Rust
 - 📫 <b>Reach me via</b>: alperen.cantez@outlook.com
 
 ### 🛠 &nbsp; Tech Stack
@@ -35,10 +35,31 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a>  </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png" alt="jQuery" width="40"> 
+      height="40" /> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png?20171020144116" alt="React" width="40"> 
+      <img src="https://brandslogos.com/wp-content/uploads/images/python-logo.png" "alt="Python" width="35" >
+      <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="35" >
+      <img src="https://www.pngrepo.com/png/331488/180/mongodb.png" alt="MongoDB" width=35 >
       </p>
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperencantez&theme=dark&layout=compact" width="410" /></p>
+<!-- Light Mode -->
+<div align="start"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=alperencantez&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Alp's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="start"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=210 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=alperencantez&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=210 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=alperencantez&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Alp's Github stats" />
+</a>
+</div>
 
