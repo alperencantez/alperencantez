@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Alp, I develop web applications & UIs for your convenience.
+I'm Alp, I mainly develop web applications & UIs for your convenience.
 
 
 <!--
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :seedling: I’m currently learning <b>React & Flask</b>.
-- 🧬 <b> On my wishlist:</b> Flutter, Swift, C, TypeScript, Rust
+- 🔧 I usually work with <b>MERN Stack</b> yet there's always room for new technologies!
+- 🧬 <b> On my wishlist:</b> Dart & Flutter, Go, C, Rust
 - 📫 <b>Reach me via</b>: alperen.cantez@outlook.com
 
 ### 🛠 &nbsp; Tech Stack
