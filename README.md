@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔧 I usually work with <b>MERN Stack</b> yet there's always room for new technologies!
-- 🧬 <b> On my wishlist:</b> Dart & Flutter, Go, C, Rust
-- ☁️ Interested in <b>Cloud Computing</b> and learning Google Cloud Platform.
+- 🧬 <b> On my wishlist:</b> Dart & Flutter, Go, Rust
+- 🧠 <b> Interested in: </b> Machine Learning / Deep Learning
 - 📫 <b>Reach me via</b>: alperen.cantez@outlook.com
 
 ### 🛠 &nbsp; Tech Stack
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a>  </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"
+      src="https://avatars.githubusercontent.com/u/9950313?s=280&v=4"
       alt="nodejs" width="40" height="45" /> </a>  </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
       height="40" /> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/512px-React.svg.png?20171020144116" alt="React" width="40"> 
