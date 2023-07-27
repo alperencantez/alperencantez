@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔧 I usually work with <b>MERN Stack</b> yet there's always room for new technologies!
-- 🧬 <b> On my wishlist:</b> Dart & Flutter, Go, Rust
-- 🧠 <b> Interested in: </b> Machine Learning / Deep Learning
+- 🧬 <b> On my wishlist:</b> Swift, Go, Rust
 - 📫 <b>Reach me via</b>: alperen.cantez@outlook.com
 
 ### 🛠 &nbsp; Tech Stack
@@ -38,22 +37,4 @@ Here are some ideas to get you started:
         <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-10-1175121.png" alt="Postgres" width=35 >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="TS" width=35 >
       </p>
-
-### ⚙️ &nbsp; Git Analytics
- 
-<!-- Light Mode -->
-<div align="start"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=alperencantez&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Alp's Language stats" />
-</a>
-
-</div>
-
-<!-- Dark Mode -->
-<div align="start"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=210 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=alperencantez&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Language stats" />
-</a>
-
-</div>
 
