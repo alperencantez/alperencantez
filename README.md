@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi folks 👋
 I'm Alp, I mainly develop web applications & UIs for your convenience.
 
 
