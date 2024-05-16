@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤡  I mainly work with <b>JavaScript/TypeScript ecosystem</b> however this doesn't mean I only work with those
-I'm pretty much interested in system-level programming, blockchain protocols and smart contracts and dApps for both on and off-chain programs.
+- 🤡  I mainly work with <b>JavaScript/TypeScript ecosystem</b> however this doesn't mean I only work with those.
+I'm also pretty much interested in system-level programming, blockchain protocols and smart contracts and dApps for both on and off-chain programs.
      > - Go, Python, Solidity, React, CSS and SQL are other notable __*technical*__ skills.
 
      
