@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am mostly experienced with <b>JavaScript/TypeScript ecosystem</b> however this doesn't mean I only work with those.
-I'm also pretty much interested in system-level programming, blockchain protocols and smart contracts and web services.
+I have a strong background in the JavaScript and TypeScript ecosystem, though my expertise is not limited to these technologies. I am also deeply interested in building tools & libraries and the design and development of web services.
 - **Languages:** TypeScript (Node.js & Deno), Go, Python, Solidity.
 - **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, Redis, DynamoDB
 - **UI Tools:** Next.js, React Native, TailwindCSS
